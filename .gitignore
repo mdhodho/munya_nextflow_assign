@@ -1,0 +1,6 @@
+containers/*.sif
+*.log
+.nextflow*
+work/
+data/
+ref/reference.fa
