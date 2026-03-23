@@ -4,3 +4,5 @@ containers/*.sif
 work/
 data/
 ref/reference.fa
+work/
+nextflow
